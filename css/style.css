@@ -5,9 +5,9 @@ body{
   overflow: hidden;
   color: #fff;
   height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  display: grid;
+  align-items: center;
+  justify-content: center;
 }
 .bgoverlay{
   background: rgb(255,00,00);
